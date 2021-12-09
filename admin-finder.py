@@ -1,4 +1,3 @@
-from posix import EX_PROTOCOL
 import requests
 import os
 from colorama import Fore
