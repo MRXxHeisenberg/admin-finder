@@ -1,1 +1,1 @@
-alert(111);
+<script type="text/javascript">alert(111);</script>
